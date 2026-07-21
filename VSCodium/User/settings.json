@@ -1,5 +1,5 @@
 {
-    "workbench.preferredDarkColorTheme": "Default Dark Modern",
+    "workbench.preferredDarkColorTheme": "Dark Modern",
     "workbench.iconTheme": "vs-seti",
     "editor.semanticHighlighting.enabled": true,
     "editor.semanticTokenColorCustomizations": {
@@ -483,7 +483,6 @@
     "python.languageServer": "Jedi",
     // ── ft_utils ─────────────────────────────
     "ft_utils.email": "mtaheri@student.42istanbul.com.tr",
-    "ft_utils.login": "mtaheri",
     // ── AI         ───────────────────────────
     "chat.disableAIFeatures": true,
     // ── Extensions ───────────────────────────
@@ -494,5 +493,10 @@
     "python.terminal.activateEnvironment": false,
     "python.terminal.activateEnvInCurrentTerminal": false,
     "python.venvPath": "",
-    "python.venvFolders": []
+    "python.venvFolders": [],
+    "editor.comments.insertSpace": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "editor.renderWhitespace": "boundary"
 }

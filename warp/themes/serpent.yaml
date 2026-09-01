@@ -1,0 +1,33 @@
+name: Serpent
+details: darker
+
+accent: '#7fb2c8'
+cursor: '#8fd7e8'
+
+background: '#05070a'
+foreground: '#c5cdd8'
+
+background_image:
+  # Path is relative to ~/.warp/themes/
+  path: 7143586.jpg
+  opacity: 55
+
+terminal_colors:
+  normal:
+    black: '#1a1f26'
+    red: '#d9737f'
+    green: '#8fbf7f'
+    yellow: '#d3b673'
+    blue: '#7aa2f7'
+    magenta: '#a68ad4'
+    cyan: '#7dcfff'
+    white: '#a8b2c0'
+  bright:
+    black: '#48525f'
+    red: '#f0899a'
+    green: '#a8d497'
+    yellow: '#e6cd8f'
+    blue: '#9dbcff'
+    magenta: '#c0a8e8'
+    cyan: '#a4dfff'
+    white: '#e2e8f0'
